@@ -1,0 +1,17 @@
+*{
+    background-color: grey;
+}
+.center-box{
+    background-color:blue;
+    width: 1341px;
+    height: 315px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-item{
+    background-color: tan;
+    width: 100px;
+    height: 100px;
+}
